@@ -26,7 +26,7 @@ module.exports = {
       },
       label: 'Quote:',
       type: 'text',
-      placeholder: 'Things aren\'t different. Things are things.',
+      placeholder: 'Quotation Text',
       settings: {
         empty: false,
       },
@@ -38,7 +38,7 @@ module.exports = {
       },
       label: 'Author:',
       type: 'text',
-      placeholder: 'William Gibson',
+      placeholder: 'Author Name',
       settings: {
         empty: false,
       },
@@ -50,7 +50,7 @@ module.exports = {
       },
       label: 'Citation:',
       type: 'text',
-      placeholder: 'Neuromancer',
+      placeholder: 'Source Material',
       settings: {
         empty: false,
       },
