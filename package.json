@@ -1,5 +1,6 @@
 {
   "name": "input-plugin-quote",
+  "version": "0.0.0",
   "description": "Simple input plugin for quote type",
   "main": "index.js",
   "scripts": {
